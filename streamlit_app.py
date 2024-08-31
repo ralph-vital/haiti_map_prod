@@ -7,7 +7,7 @@ from pathlib import Path
 import shapefile as shp
 import folium
 from streamlit_folium import st_folium
-import geopandas as gpd
+#import geopandas as gpd
 from pprint import pprint
 import json
 
