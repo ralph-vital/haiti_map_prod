@@ -3,3 +3,4 @@ pydeck
 plotly
 folium
 pyshp
+streamlit-folium
